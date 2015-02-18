@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Father, US Navy Electronics tech(communications), systems/network admin, and aspiring full stack developer(along with some other fun goodies along the way!).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bconner22@gmail.com](mailto:bconner22@gmail.com)
